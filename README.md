@@ -1,1 +1,1 @@
-Ongoing project, README will be updated when the project is completed.
+This is an ongoing project; the README will be updated once the project is completed.
